@@ -1,4 +1,5 @@
 # ataque.py
+IMPORTANTE!!! Utilizar sólo en entornos controlados
 # Ejemplo
 999 hilos envía solicitudes GET:
 
